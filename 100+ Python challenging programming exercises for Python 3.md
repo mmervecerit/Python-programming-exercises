@@ -81,20 +81,6 @@ tuple() method can convert list to tuple
 
 
 
-### Question 5
-Level 1
-
-Question:
-Define a class which has at least two methods:
-getString: to get a string from console input
-printString: to print the string in upper case.
-Also please include simple test function to test the class methods.
-
-Hints:
-Use __init__ method to construct some parameters
-
-
-
 ### Question 6
 Level 2
 
@@ -1251,5 +1237,19 @@ Define a class Person and its two child classes: Male and Female. All classes ha
 
 Hints:
 Use Subclass(Parentclass) to define a child class.
+
+
+### Question 5
+Level 1
+
+Question:
+Define a class which has at least two methods:
+getString: to get a string from console input
+printString: to print the string in upper case.
+Also please include simple test function to test the class methods.
+
+Hints:
+Use __init__ method to construct some parameters
+
 
 
